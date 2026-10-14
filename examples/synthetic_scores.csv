@@ -1,0 +1,7 @@
+candidate,board,replicate,score
+baseline,T3:gata4,replicate-1,61.2
+baseline,T3:gata4,replicate-2,58.7
+method-a,T3:gata4,replicate-1,63.1
+method-a,T3:gata4,replicate-2,57.9
+method-b,T3:gata4,replicate-1,60.4
+method-b,T3:gata4,replicate-2,62.0
